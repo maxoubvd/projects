@@ -11,6 +11,6 @@ As the name suggests, this repository serves as an ePortfolio showcasing the: St
   - Gen_AI : Using opensource models in a notebook
   - NLP : Firsts steps of NLP
 - Personal projects:
-  - Quantum Machine Learning : Webinar of Quandela and Documenatation of Merlin
+  - Quantum Machine Learning : Webinar of Quandela and Documentation of Merlin
   - Titanic : kaggle project
   - Airbnb : Prediction of Airbnb apartment prices
