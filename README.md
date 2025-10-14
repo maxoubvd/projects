@@ -9,7 +9,7 @@ As the name suggests, this repository serves as an ePortfolio showcasing the: St
   - **MMSE Project (Semester Project, Sunderland University)** : Prediction of MMSE Scores (Alzeihmer disease), project made during my study abroad semester in UK (first year as an engineering student)
   - NLP : Firsts steps of NLP
 - Personal projects:
-  - Quantum Machine Learning : Webinar of Quandela and Documentation of Merlin
+  - **Quantum Machine Learning** : Webinar of Quandela and Documentation of Merlin
   - Titanic : kaggle project
   - Digit recognition : first steps of computer vision
   - Airbnb : Prediction of Airbnb apartment prices
