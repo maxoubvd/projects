@@ -1,7 +1,7 @@
 # Voici quelques informations sur ce projet
 
 ## Organisation
-- Rapport projet Statistiques : Le rapport complet du porjet. Ce rapport contient tout le projet.
+- Rapport projet Statistiques : Le rapport complet du projet. Ce rapport contient tout le projet.
 - Annexe : Contient des screenshots du code utilisé.
 
 ## Informations supplémentaires
